@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🇼🍎️🍏️💾️ The official source repository for WacOS Apple Picker, a set of joke programs (WacOS Big Cat Picker and WacOS Apple Valley Picker) used for generating names of MacOS releases. Part of the WacOS operating system project.
